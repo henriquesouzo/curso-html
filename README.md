@@ -1,5 +1,7 @@
 # curso-html
 
+Estudos
+
 ## Project setup
 ```
 npm install
