@@ -1,6 +1,16 @@
-Para acessar a pagina funcionando no GitHub Pages acesse o link abaixo:
+Foram aplicadas algumas técnicas de html e css, como imagem em parallax, navbar e footer, importando fontes do google fontes e uma página responsiva para se ajustar em varios tamanhos de telas de dispositivos.
 
-https://henriquesouzo.github.io/curso-html/
+Para acessar a pagina funcionando no Vercel acesse o link abaixo:
+
+https://curso-html-navy.vercel.app/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Some html and css techniques were applied, such as parallax imaging, navbar and footer, importing fonts from google fonts and a responsive page to fit into various screen sizes of devices.
+
+To access the page working in Vercel access the link below:
+
+https://curso-html-navy.vercel.app/
 
 # curso-html
 

@@ -14,7 +14,7 @@
         Mensagem curta e fria<br>
         Twitter e Facebook<br>
         Antes que eu caduque<br>
-        Vou dizer tudo em poesia.<br><br>
+        Vou dizer tudo em poesia.
       </p>
     </section>
 
@@ -27,7 +27,7 @@
         O "O" e o "E" foi riscado<br>
         Para declarar o amor<br>
         Basta botar uma flor<br>
-        E um coração desenhado.<br>
+        E um coração desenhado.
       </p>
     </section>
 
@@ -50,7 +50,7 @@
         Ponto e vírgula e um asterisco<br>
         Um beijo significa<br>
         Pra entender como fica<br>
-        Decifre esse rabisco.<br>
+        Decifre esse rabisco.
       </p>
     </section>
 
@@ -63,7 +63,7 @@
         Só chegava no Verão<br>
         Mas matava a saudade<br>
         Era texto de verdade<br>
-        Nas linhas do coração.<br>
+        Nas linhas do coração.
       </p>
     </section>
 
@@ -76,7 +76,7 @@
         A pessoa foi embora<br>
         Abriu outro aplicativo<br>
         O mundo ficou cativo<br>
-        Da tecnologia do agora.<br><br>
+        Da tecnologia do agora.<br>
       </p>
 
       <p>
@@ -86,7 +86,7 @@
         Se quiser, faça esse teste<br>
         Dois pontos são dois joelhos<br>
         Seus lábios são aparelhos<br>
-        Deixe que Deus interprete.<br>
+        Deixe que Deus interprete.
       </p>
     </section>
 
@@ -119,7 +119,7 @@ export default {
     padding-top: 50px;
     text-transform: uppercase; /*  deixar toda letra em maiuscula */
     font-family: var(--fonte2);
-    font-size: 5vw; /* com vh vai ajustar o tamanho do texto de acordo com a tela na horizontal */
+    font-size: 4vw; /* com vh vai ajustar o tamanho do texto de acordo com a tela na horizontal */
   }
 
   header p{
@@ -155,12 +155,12 @@ export default {
   }
 
   section{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
     line-height: 2em; /* aumentando o espaçamento das letras na vertical */
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3vw; /* com vh vai ajustar o tamanho do texto de acordo com a tela na horizontal */
+    font-size: 2vw; /* com vh vai ajustar o tamanho do texto de acordo com a tela na horizontal */
   }
 
   section p{
