@@ -25,4 +25,4 @@ const fs = require("fs");
 })();
 
 /* adiciono o deploy no scripts e tambem execa no dev dependecies, 
-adiciono os arquivos em scripts e o vue.config.js e depois rodo o comando npm install para concluir para depois postar no github pages. */
+adiciono os arquivos em scripts e o vue.config.js e depois rodo o comando npm install execa  e depois npm install para concluir para depois postar no github pages. */
