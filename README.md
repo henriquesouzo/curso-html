@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/henriquesouzo/curso-html/blob/gh-pages/src/publico/imagens/topo.jpg" />
+</div>
+
 Foram aplicadas algumas técnicas de html e css, como imagem em parallax, navbar e footer, importando fontes do google fontes e uma página responsiva para se ajustar em varios tamanhos de telas de dispositivos.
 
 Para acessar a pagina funcionando no Vercel acesse o link abaixo:
