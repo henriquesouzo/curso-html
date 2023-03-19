@@ -1,4 +1,5 @@
 Para acessar a pagina funcionando no GitHub Pages acesse o link abaixo:
+
 https://henriquesouzo.github.io/curso-html/
 
 # curso-html
