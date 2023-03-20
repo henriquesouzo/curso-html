@@ -10,7 +10,7 @@ Foram aplicadas algumas técnicas de html e css, como imagem em parallax, navbar
 
 Para acessar a pagina funcionando no Vercel acesse o link abaixo:
 
-https://curso-html-navy.vercel.app/
+curso-html-css-two.vercel.app
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Some html and css techniques were applied, such as parallax imaging, navbar and 
 
 To access the page working in Vercel access the link below:
 
-https://curso-html-navy.vercel.app/
+curso-html-css-two.vercel.app
 
 # curso-html
 
